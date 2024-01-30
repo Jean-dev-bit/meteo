@@ -50,7 +50,7 @@ Open with live server
 
 ## Authors
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
+- [@codewithyemalin](https://www.github.com/Jean-dev-bit)
 
 ## License
 
